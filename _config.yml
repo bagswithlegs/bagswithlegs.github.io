@@ -5,7 +5,7 @@
 title: Bagswithlegs
 description: |
   [Walk proud today](http://bagswithlegs.com)
-owner: Your Name # or company name
+owner: BAGSWITHLEGS # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 
 email: walkproud@bagswithlegs.at
@@ -13,12 +13,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "bagswithlegs.github.com" # the base hostname & protocol for your site
 
 social:
-  twitter: https://twitter.com/<username>
-  github: https://github.com/<username>
-  linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
+  twitter: https://twitter.com/bagswithlegs
+  github: https://github.com/bagswithlegs
+  linkedin-square: https://linkedin.com/in/bagswithlegs
+  facebook-official: https://facebook.com/bagswithlegs
   google-plus-square: https://plus.google.com/u/0/+<username>
-  #email: /contact/
+  #email: walkproud@bagswithlegs.com
   #flickr:
   #instagram:
   #youtube-square:
