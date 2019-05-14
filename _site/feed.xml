@@ -4,11 +4,11 @@
     <title>Bagswithlegs</title>
     <description>[Walk proud today](http://bagswithlegs.com)
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Mar 2017 22:18:18 +0100</pubDate>
-    <lastBuildDate>Mon, 13 Mar 2017 22:18:18 +0100</lastBuildDate>
-    <generator>Jekyll v3.3.0</generator>
+    <link>bagswithlegs.github.com/</link>
+    <atom:link href="bagswithlegs.github.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 14 May 2019 23:07:05 +0200</pubDate>
+    <lastBuildDate>Tue, 14 May 2019 23:07:05 +0200</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
     
   </channel>
 </rss>
