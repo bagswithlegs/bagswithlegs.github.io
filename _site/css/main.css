@@ -1,7 +1,63 @@
+/*
 html {
-  background: url(/images/bwl-background.jpg) no-repeat center center fixed;
+  background: url(/images/bwl-background-no-text.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  object-fit: scale-down;
+}
+
+html,body{ margin:0; padding:0; height:100%; width:100%; }
+*/
+
+html, body {
+    background-image: url(/images/bwl-background-no-text.jpg);
+    background-repeat: no-repeat;
+    margin:0; padding:0;
+    height:100%; width:100%;
+}
+
+.fill {
+  object-fit: fill;
+}
+
+.left-top {
+    color: #444;
+    vertical-align: text-top;
+    text-align: right;
+    position: absolute;
+    top: 47px;
+    left: 20px;
+    font-size: 13pt;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
+  Helvetica, Arial, "Lucida Grande", sans-serif;
+font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+    color: #444;
+    font-size: 13pt;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
+  Helvetica, Arial, "Lucida Grande", sans-serif;
+font-weight: bold;
+}
+
+.left-bottom {
+    color: #444;
+    vertical-align: text-top;
+    text-align: right;
+    position: absolute;
+    top: 500px;
+    left: 30px;
+    font-size: 13pt;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
+  Helvetica, Arial, "Lucida Grande", sans-serif;
+font-weight: bold;
+
 }
